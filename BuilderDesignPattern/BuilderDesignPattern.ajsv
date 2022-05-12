@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2022-Jan-15 12:06" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="manual" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="BuilderDesignPattern.CustomPCBuilder" modelMemberId="BuilderDesignPattern.CustomPCBuilder" project="Proj_1" xLocation="1386" yLocation="455"/>
+        <class className="BuilderDesignPattern.WorkstationPCBuilder" modelMemberId="BuilderDesignPattern.WorkstationPCBuilder" project="Proj_1" xLocation="18" yLocation="-76"/>
+        <class className="BuilderDesignPattern.GamingPCBuilder" modelMemberId="BuilderDesignPattern.GamingPCBuilder" project="Proj_1" xLocation="27" yLocation="271"/>
+        <class className="BuilderDesignPattern.OfficePCBuilder" modelMemberId="BuilderDesignPattern.OfficePCBuilder" project="Proj_1" xLocation="33" yLocation="675"/>
+        <class className="BuilderDesignPattern.PC" modelMemberId="BuilderDesignPattern.PC" project="Proj_1" xLocation="776" yLocation="-74"/>
+        <class className="BuilderDesignPattern.Director" modelMemberId="BuilderDesignPattern.Director" project="Proj_1" xLocation="1220" yLocation="216"/>
+        <class className="BuilderDesignPattern.PCBuilder" modelMemberId="BuilderDesignPattern.PCBuilder" project="Proj_1" xLocation="786" yLocation="567"/>
+        <class className="BuilderDesignPattern.GUI" modelMemberId="BuilderDesignPattern.GUI" project="Proj_1" xLocation="1509" yLocation="-10"/>
+        <class className="BuilderDesignPattern.Main" modelMemberId="BuilderDesignPattern.Main" project="Proj_1" xLocation="458" yLocation="854"/>
+    </diagram>
+</ajsv>
